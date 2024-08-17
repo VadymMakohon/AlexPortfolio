@@ -2,6 +2,11 @@
 
 Welcome to the repository for a personal portfolio website!
 
+## Preview
+
+![preview](https://github.com/user-attachments/assets/63acd0f9-6094-48ff-913b-f3d9b89d42c3) <br> ![preview1](https://github.com/user-attachments/assets/30cd98a5-9502-478c-a7e2-3e30ec1313e2)
+
+
 ## Overview
 
 This repository contains the source code and assets for a personal portfolio website. The website showcases projects, skills, and experience to potential employers, clients, and collaborators.
